@@ -2,4 +2,4 @@
 
 *  Android Scripts
 
-[back](./)
+[back](../)

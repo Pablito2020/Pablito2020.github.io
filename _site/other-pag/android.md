@@ -3,4 +3,4 @@
 *   Minimal Calculator
 *   ShortCuts
 
-[back](./)
+[back](../)
