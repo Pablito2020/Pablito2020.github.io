@@ -1,4 +1,6 @@
-title: Pablo Web Page
-description: This is Pablo Fraile WebPage
+title: Pablo Fraile Alonso
+description: Web Page
+theme: jekyll-theme-minimal
+logo: pictures/pablo-picture.png
+show_downloads: false
 google_analytics:
-theme: jekyll-theme-cayman
