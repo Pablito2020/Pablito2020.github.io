@@ -1,0 +1,11 @@
+===============================
+How to test the webpage localy:
+===============================
+
+Prerequisites:
+  * Install jekyll
+  * Install bundle
+  * Create a Ruby GEM inside the project
+
+Command:
+  $ bundle exec jekyll serve
