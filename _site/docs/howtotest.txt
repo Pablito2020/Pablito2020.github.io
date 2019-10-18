@@ -1,2 +1,0 @@
-If you need to test the webpage localy:
-$ bundle exec jekyll serve

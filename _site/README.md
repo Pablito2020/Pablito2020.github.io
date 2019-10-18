@@ -19,7 +19,7 @@ Actually studying at the University of Lleida (UdL)
 
 ## Worked as:
 
-* #### LifeGuard (2018) at the [hotel terradets](https://github.com/Pablito2020/java-projects/tree/master/TypingTest)
+* #### LifeGuard (2018) at the [hotel terradets](https://www.hotelterradets.com/en/)
 
 
 
